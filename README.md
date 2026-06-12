@@ -11,12 +11,6 @@ The program calculates BMI based on user input and provides health categorizatio
 - Health categorization based on WHO standards
 - Personalized health advice for each category
 
-## How to Run
-1. Make sure Python is installed
-2. Run the file: `BMI Calculator.py`
-3. Enter your height in meters (e.g. 1.75)
-4. Enter your weight in kilograms
-
 ## BMI Categories
 | Category | BMI Range |
 |----------|-----------|
