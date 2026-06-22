@@ -46,4 +46,5 @@ A highly secure, command-line utility designed to generate cryptographically str
 ## ⚙️ How to Run the Projects
 
 1. **Clone the repository:**
-   ```bash git clone [https://github.com/IsraaAhmed19/OIBSIP]
+   ```bash
+   git clone [https://github.com/IsraaAhmed19/OIBSIP]
